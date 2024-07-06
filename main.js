@@ -55,15 +55,17 @@
 //Q2
 // let x = 4; 
 // let y = x-- + 2 //4+2=6
+// console.log(x);
 // console.log(y);
 // LIKE
 // let x = 10; 
 // let y = --x + 2 //9+2=11
 // console.log(y);
 // Q3
-let x = 3;
-let y = ++x + x++ + ++x; // 4+3+4= 11
-console.log(y);
+// let x =3;
+// let y = ++x + x++ + ++x  //4+4+6= 14
+// console.log(x);
+// console.log(y);
 //Q4
 let m = 2;
 let n = ++m * m++ * --m; //3*2*1=6
